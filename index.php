@@ -10,7 +10,7 @@
     <meta name="keywords" content="Web Development, Web, User Interface, User Experience, JAVA, web design, graphics, HTML, HTML5, CSS3, Bootstrap, freelance, freelancing, website design, woocommerce, web designer, design, areez, areezafsarkhan, bangladesh, dhaka, chittagong, make personal website, make, build, user interface design, user experince">
     <meta name="author" content="Areez Afsar Khan">
 
-    <title>Areez Afsar Khan | UX Designer</title>
+    <title>Areez Afsar Khan | Bangladesh-based UX Designer</title>
 
     <link rel="icon" href="images/favicon.png">
     <link rel="apple-touch-icon" sizes="144x144" href="images/apple-touch-icon-ipad-retina.png" />
