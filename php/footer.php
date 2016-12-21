@@ -15,10 +15,10 @@
 
       <section class="footersocial wow fadeInUp" data-wow-duration="3s"><!-- FOOTER SOCIAL ICONS START -->
       <ul>
-        <li><a href="http://facebook.com/areez.khan"><span class="icon-social-facebook"></span></a></li>
-        <li><a href="http://twitter.com/areezafsarkhan"><span class="icon-social-twitter"></span></a></li>
-        <li><a href="http://youtube.com/areez"><span class="icon-social-youtube"></span></a></li>
-        <li><a href="http://dribbble.com/areez"><span class="icon-social-dribbble"></span></a></li>
+        <li><a target="_blank" href="http://facebook.com/areez.khan"><span class="icon-social-facebook"></span></a></li>
+        <li><a target="_blank" href="http://twitter.com/areezafsarkhan"><span class="icon-social-twitter"></span></a></li>
+        <li><a target="_blank" href="http://youtube.com/areez"><span class="icon-social-youtube"></span></a></li>
+        <li><a target="_blank" href="http://dribbble.com/areez"><span class="icon-social-dribbble"></span></a></li>
       </ul>
     </section><!-- FOOTER SOCIAL ICONS END -->
   </section>

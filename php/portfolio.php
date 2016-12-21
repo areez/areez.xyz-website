@@ -43,7 +43,7 @@
     </section><!-- PORTFOLIO SECTION HEAD END -->
 
     <!-- Behance profile URL-->
-    <a class="btn btn-default wow fadeInUp" href="http://behance.net/areez" role="button">
+    <a class="btn btn-default wow fadeInUp" target="_blank" href="http://behance.net/areez" role="button">
         <span><img src="images/behance-icon.png"></span>
         <span class="button_text">View my Behance Portfolio</span>
     </a>
