@@ -6,7 +6,7 @@
       <h4 class="wow fadeInUp" data-wow-duration="3s">An UX/UI Designer as well as a Graphics Ninja who works on the Graveyard Shift and sleeps all the day!</h4>
       <p class="wow fadeInDown" data-wow-duration="3s">"Creating creative values for my clients is the only reason I breathe."</p>
       <p class="wow fadeInDown" data-wow-duration="3s">My works are committed to the best business practices and ethical standards. This commitment to integrity, enhances our common understanding of the value of good design in contemporary world to come up with robust solutions for your everyday life.</p>
-      <a class="dribbble-follow-button wow bounce" href="https://dribbble.com/areez">Follow</a>
+      <a class="dribbble-follow-button wow bounce" target="_blank" href="https://dribbble.com/areez">Follow</a>
     </section> <!-- ABOUT INFO END -->
 
   <section class="myapps row">
