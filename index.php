@@ -10,7 +10,7 @@
     <meta name="keywords" content="Web Development, Web, User Interface, User Experience, JAVA, web design, graphics, HTML, HTML5, CSS3, Bootstrap, freelance, freelancing, website design, woocommerce, web designer, design, areez, areezafsarkhan, bangladesh, dhaka, chittagong, make personal website, make, build, user interface design, user experince">
     <meta name="author" content="Areez Afsar Khan">
 
-    <title>Areez Afsar Khan | The UX Designer</title>
+    <title>Areez Afsar Khan | UX Designer</title>
 
     <link rel="icon" href="images/favicon.png">
     <link rel="apple-touch-icon" sizes="144x144" href="images/apple-touch-icon-ipad-retina.png" />
@@ -30,25 +30,20 @@
    </head>
 
    <body data-spy="scroll">
-     <div id="preloader"> <!-- Preloader -->
-       <div id="status">
-         <div class="loadicon icon-moustache wow tada infinite" data-wow-duration="5s"></div>
-       </div>
-     </div>
+     <?php include ("php/preloader.php"); ?>
+     <?php include ("php/header.php"); ?>
+     <?php include ("php/clients.php"); ?>
+     <?php include ("php/about.php"); ?>
+     <?php include ("php/services.php"); ?>
+     <?php include ("php/portfolio.php"); ?>
+     <?php include ("php/testimonial.php"); ?>
+     <?php include ("php/footer.php"); ?>
 
-    <?php include ("php/header.php"); ?>
-    <?php include ("php/clients.php"); ?>
-    <?php include ("php/about.php"); ?>
-    <?php include ("php/services.php"); ?>
-    <?php include ("php/portfolio.php"); ?>
-    <?php include ("php/testimonial.php"); ?>
-    <?php include ("php/footer.php"); ?>
-
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-    <script src="js/jquery.nicescroll.min.js"></script>
-    <script src="js/drifolio.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script>new WOW().init();</script>
-  </body>
-</html>
+     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+     <script src="js/jquery.nicescroll.min.js"></script>
+     <script src="js/drifolio.js"></script>
+     <script src="js/wow.min.js"></script>
+     <script>new WOW().init();</script>
+   </body>
+   </html>

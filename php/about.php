@@ -2,7 +2,7 @@
   <!-- LEFT PART OF THE ABOUT SECTION -->
   <section class="col-md-6">
     <section class="row">
-      <h2 class="wow fadeInDown" data-wow-duration="2s">I'm <strong>Areez</strong> Afsar Khan from Bangladesh</h2>
+      <h2 class="wow fadeInDown" data-wow-duration="2s">This is <strong>Areez Afsar Khan</strong> from Bangladesh</h2>
       <h4 class="wow fadeInUp" data-wow-duration="3s">An UX/UI Designer as well as a Graphics Ninja who works on the Graveyard Shift and sleeps all the day!</h4>
       <p class="wow fadeInDown" data-wow-duration="3s">"Creating creative values for my clients is the only reason I breathe."</p>
       <p class="wow fadeInDown" data-wow-duration="3s">My works are committed to the best business practices and ethical standards. This commitment to integrity, enhances our common understanding of the value of good design in contemporary world to come up with robust solutions for your everyday life.</p>

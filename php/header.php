@@ -1,8 +1,9 @@
 <header class="clearfix">
   <section id="hero">
     <section class="container herocontent">
-      <h2 class="wow fadeInUp" data-wow-duration="2s">Create Awesome Digital Experiences</h2>
-      <h4 class="wow fadeInDown" data-wow-duration="3s">Want to revamp your <strong>Brand Identity</strong> completely from the scratch or build cool and <strong>User-centric Websites</strong> that really matter? You've landed yourself on the right place.</h4>
+      <h2 class="wow fadeInUp" data-wow-duration="2s">Hi! I'm Areez</h2>
+      <h3 class="wow fadeInUp" data-wow-duration="3s">I create "Awesome Digital Experiences"</h3>
+      <h5 class="wow fadeInDown" data-wow-duration="4s">Want to build cool <strong>User-centric Web Solutions</strong> that really matter or revamp your <strong>Brand Identity</strong> completely from the scratch?<br>You've landed yourself on the right place.</h5>
       </section>
 
       <!-- Featured image on the Hero area -->

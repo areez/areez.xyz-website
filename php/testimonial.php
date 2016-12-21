@@ -19,7 +19,7 @@
                    <p>The solutions are creative and Areez can think out of the box for outstanding designs. We appreciate his service.</p>
                 </blockquote>
                 <h5>Dr. Shazzad Hossain</h5>
-                <p>Director, ACM-ICPC Dhaka Regional Site</p>
+                <p>Associate Director, ACM-ICPC Dhaka Regional Site</p>
             </section>
         </section><!-- 1ST TESTIMONIAL ITEM END -->
 
